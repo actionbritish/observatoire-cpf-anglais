@@ -196,6 +196,10 @@ Chaque chiffre clé porte sa requête dans le champ `requetes` du fichier `data/
 
 {ed['nom']} (marque {ed['marque']}), SIRET {ed['siret']}. {ed['conflit_interets']}
 
+## Citer ce jeu de données
+
+SARL ACTION (ActionBRITISH), « {d['titre']} », version du 27/10/2026, {lic['nom']}. Le fichier `CITATION.cff` donne la même référence. Toute réutilisation mentionne aussi les producteurs des données sources (voir `LICENSE`).
+
 ## Liens
 
 [{S1}]({S1})

@@ -42,6 +42,10 @@ Chaque chiffre clé porte sa requête dans le champ `requetes` du fichier `data/
 
 SARL ACTION (marque ActionBRITISH), SIRET 53418175500016. L'éditeur propose des formations d'anglais finançables par le CPF (8 offres au catalogue extrait le 27/10/2026). Aucun organisme n'est classé ni mis en avant.
 
+## Citer ce jeu de données
+
+SARL ACTION (ActionBRITISH), « Observatoire CPF anglais : données de la Caisse des Dépôts », version du 27/10/2026, Licence Ouverte v2.0 (Etalab). Le fichier `CITATION.cff` donne la même référence. Toute réutilisation mentionne aussi les producteurs des données sources (voir `LICENSE`).
+
 ## Liens
 
 [https://formation-anglais-cpf.com/observatoire-cpf-anglais-caisse-des-depots.html](https://formation-anglais-cpf.com/observatoire-cpf-anglais-caisse-des-depots.html)
