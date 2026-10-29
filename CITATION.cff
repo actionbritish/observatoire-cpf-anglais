@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Merci de citer ce jeu de données."
+title: "Observatoire CPF anglais : données de la Caisse des Dépôts"
+type: dataset
+authors:
+  - name: "SARL ACTION (ActionBRITISH)"
+version: "2026-10-27"
+date-released: "2026-10-29"
+license: Etalab-2.0
